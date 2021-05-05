@@ -1,6 +1,6 @@
 <p align="center"> Merhaba 👋🏾 Github sayfama hoşgeldin!  ☁️ </p>
 
-<h1 align="center">Rent A Car Project : Araba Kiralama Projesi</h1> 
+<h1 align="center">Kotlin Ülke Bilgileri Uygulaması</h1> 
 
 
 
@@ -19,7 +19,6 @@
   <img src="https://github.com/fatihhernn/Ulkeler-Kotlin/blob/master/Screenshot_46.png" width="250" height="350" alt=".netProject">
 </p>
  
-- **[Sql query](https://github.com/fatihhernn/ReCapProject/blob/master/rentacardb.sql) bu linkte Sql tablolarını Sql Server 2019'da oluşturabilirisiniz.**
 
 
 
